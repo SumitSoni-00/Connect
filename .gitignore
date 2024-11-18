@@ -35,3 +35,17 @@ keyfile.txt
 /node_modules/
 
 /dist/
+
+mvnw.cmd
+
+mvnnw
+
+docker-compose.yml
+
+Dockerfile
+
+.DS_Store
+
+/dist/
+
+.mvn/wrapper
